@@ -21,6 +21,14 @@
 
 因为这本书与并发相关，所以我展示了很多容易出错的地方，并展示避免或解决它们的方案。
 
+## 书与作者
+
+To write this book in English, I started a request in my English blog: www.ModernesCpp.com and received a much higher response than I expected. About 50 people wanted to proofread my book. Special thanks to all of you, including my daughter Juliette, who improved my layout and my son Marius, who was the first proofreader. Here are the names in alphabetic order : NikosAthanasiou, RobertBadea, JoeDas, Jonas Devlieghere, Randy Hormann, Lasse Natvig, Erik Newton, Ian Reeve, Bart Vandewoestyne, Dafydd Walters, Andrzej Warzynski, and Enrico Zschemisch.
+
+I’ve worked as a software architect, team lead and instructor for about 20 years. In my spare time, I enjoy writing articles on topics such as C++, Python and Haskell, and also enjoy speaking at conferences. In 2016 I decided to work for myself. I organise and lead seminars about modern C++ and Python.
+
+I began Concurrency With Modern C++ in Oberstdorf while getting a new hip joint. Formally, it was a total endoprosthesis of my left hip joint. I wrote the first half of this book during my stay in the clinic and the rehabilitation clinic. To be honest, writing a book helped me a lot during this challenging period.
+
 ## 本书相关
 
 * github翻译地址：
