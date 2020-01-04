@@ -23,11 +23,11 @@
 
 ## 书与作者
 
-To write this book in English, I started a request in my English blog: www.ModernesCpp.com and received a much higher response than I expected. About 50 people wanted to proofread my book. Special thanks to all of you, including my daughter Juliette, who improved my layout and my son Marius, who was the first proofreader. Here are the names in alphabetic order : NikosAthanasiou, RobertBadea, JoeDas, Jonas Devlieghere, Randy Hormann, Lasse Natvig, Erik Newton, Ian Reeve, Bart Vandewoestyne, Dafydd Walters, Andrzej Warzynski, and Enrico Zschemisch.
+这本书使用英语完成。在写书之前，我在我的英文博客www.ModernesCpp.com发布了要写这本书的消息，并得到了很多人的回复。有大概有50多个人要帮我校对。特别感谢我的闺女Juliette，对本书的布局进行升华；还有我的儿子，你是本书的第一个审阅者哦。当然，还有很多很多人 : NikosAthanasiou, RobertBadea, JoeDas, Jonas Devlieghere, Randy Hormann, Lasse Natvig, Erik Newton, Ian Reeve, Bart Vandewoestyne, Dafydd Walters, Andrzej Warzynski, 以及Enrico Zschemisch。
 
-I’ve worked as a software architect, team lead and instructor for about 20 years. In my spare time, I enjoy writing articles on topics such as C++, Python and Haskell, and also enjoy speaking at conferences. In 2016 I decided to work for myself. I organise and lead seminars about modern C++ and Python.
+我已经做了20多年的软件架构师、团队带头人和讲师。在业余时间，我喜欢关于C++、Python和Haskell的文章。2016年时，我决定为自己工作。我会组织关于C++和Python的研讨会。
 
-I began Concurrency With Modern C++ in Oberstdorf while getting a new hip joint. Formally, it was a total endoprosthesis of my left hip joint. I wrote the first half of this book during my stay in the clinic and the rehabilitation clinic. To be honest, writing a book helped me a lot during this challenging period.
+在Oberstdorf时，我换了一个新的髋关节义肢。本书的前半部分是在诊所期间所写。说实话，在这段时期充满挑战，也对我写书有很大帮助。
 
 ## 本书相关
 
