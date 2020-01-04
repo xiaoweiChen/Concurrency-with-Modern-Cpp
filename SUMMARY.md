@@ -2,7 +2,7 @@
 
 * [读者推荐](content/Reader-Testimonials.md)
 * [代码说明](content/Source-Code.md)
-* [目标读者](content/How-you-should-read-the-book.md)
+* [如何阅读](content/How-you-should-read-the-book.md)
 * [C++并发历史概述](content/History-Quick-Overview.md)
 * [详细介绍]()
   * [内存模型]()
