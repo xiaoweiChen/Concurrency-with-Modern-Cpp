@@ -14,7 +14,6 @@
 
 * C++17中，将标准模板库(STL)的大部分算法并行化。这意味着大多数基于STL的算法可以串行、并行或向量化执行。
 
-* The concurrency story in C++ goes on. With C++20/23 we can hope for extended futures, coroutines, transactions, and more.
 * C++的并发之旅并没有停止。C++20/23，可以期待增强版future、协程([coroutines](https://en.cppreference.com/w/cpp/language/coroutines))、事件性内存([transactional_memory](https://en.cppreference.com/w/cpp/language/transactional_memory))等等。
 
 本书解释了C++中的并发性，并提供了许多代码示例。因此，可以将理论与实践相结合。
@@ -27,7 +26,7 @@
 
 我已经做了20多年的软件架构师、团队带头人和讲师。在业余时间，我喜欢关于C++、Python和Haskell的文章。2016年时，我决定为自己工作。我会组织关于C++和Python的研讨会。
 
-在Oberstdorf时，我换了一个新的髋关节义肢。本书的前半部分是在诊所期间所写。说实话，在这段时期充满挑战，也对我写书有很大帮助。
+在Oberstdorf时，我换了一个新的髋关节(义肢)。本书的前半部分是在诊所期间所写。说实话，在这段时期充满挑战，也对我写书有很大帮助。
 
 ## 本书相关
 
