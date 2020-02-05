@@ -30,5 +30,5 @@
 
 ## 本书相关
 
-* github翻译地址：
+* github翻译地址：https://github.com/xiaoweiChen/Concurrency-with-Modern-Cpp
 * gitbook在线阅读：
