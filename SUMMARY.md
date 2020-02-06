@@ -4,7 +4,7 @@
 * [代码说明](content/Source-Code.md)
 * [如何阅读](content/How-you-should-read-the-book.md)
 * [C++并发历史概述](content/History-Quick-Overview.md)
-* [详细介绍](content/The-Details/Memory-Model/1.0-chinese.md)
+* 详细介绍
   * [内存模型](content/The-Details/Memory-Model/1.0-chinese.md)
     * [内存模型的基础知识](content/The-Details/Memory-Model/1.1-chinese.md)
     * [编程协议](content/The-Details/Memory-Model/1.2-chinese.md)
