@@ -24,7 +24,7 @@
     * [性能概况](content/The-Details/Parallel-Algorithms-of-the-Standard/3.4-chinese.md)
   * [案例研究](content/The-Details/Case-Studies/4.0-chinese.md)
     * [求向量元素的加和](content/The-Details/Case-Studies/4.1-chinese.md)
-    * [单例：线程安全的初始化](content/The-Details/Case-Studies/4.2-chinese.md)
+    * [单例模式：线程安全的初始化](content/The-Details/Case-Studies/4.2-chinese.md)
     * [使用CppMem进行优化](content/The-Details/Case-Studies/4.3-chinese.md)
     * [总结](content/The-Details/Case-Studies/4.4-chinese.md)
   * [C++20/23的特性]()
