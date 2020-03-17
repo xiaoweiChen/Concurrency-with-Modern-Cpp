@@ -29,7 +29,7 @@
     * [总结](content/The-Details/Case-Studies/4.4-chinese.md)
   * [C++20/23的特性](content/The-Details/The-Future-CPP-20-23/5.0-chinese.md)
     * [关于执行](content/The-Details/The-Future-CPP-20-23/5.1-chinese.md)
-    * [可协作中断的线程](content/The-Details/The-Future-CPP-20-23/5.2-chinese.md)
+    * [可中断的协程](content/The-Details/The-Future-CPP-20-23/5.2-chinese.md)
     * [原子化的智能指针](content/The-Details/The-Future-CPP-20-23/5.3-chinese.md)
     * [扩展特性](content/The-Details/The-Future-CPP-20-23/5.4-chinese.md)
     * [门闩和栅栏](content/The-Details/The-Future-CPP-20-23/5.5-chinese.md)
