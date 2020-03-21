@@ -33,7 +33,7 @@
     * [原子智能指针](content/The-Details/The-Future-CPP-20-23/5.3-chinese.md)
     * [扩展特性](content/The-Details/The-Future-CPP-20-23/5.4-chinese.md)
     * [门闩和栅栏](content/The-Details/The-Future-CPP-20-23/5.5-chinese.md)
-    * [协同程序](content/The-Details/The-Future-CPP-20-23/5.6-chinese.md)
+    * [协程](content/The-Details/The-Future-CPP-20-23/5.6-chinese.md)
     * [事务性内存](content/The-Details/The-Future-CPP-20-23/5.7-chinese.md)
     * [任务模块](content/The-Details/The-Future-CPP-20-23/5.8-chinese.md)
 * 模式
