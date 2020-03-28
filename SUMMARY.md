@@ -53,12 +53,12 @@
     * [通常情况](content/Pattrns/Best-Practices/9.1-chinese.md)
     * [多线程](content/Pattrns/Best-Practices/9.2-chinese.md)
     * [内存模型](content/Pattrns/Best-Practices/9.3-chinese.md)
-* [数据结构](content/Data-Structures/10.0-chinese.md)
+* 数据结构
   * [有锁结构](content/Data-Structures/10.1-chinese.md)
   * [无锁结构](content/Data-Structures/10.2-chinese.md)
-* [更多信息](content/Further-Information/11.0-chinese.md)
+* 更多信息
   * [挑战](content/Further-Information/11.1-chinese.md)
-  * [计时库](content/Further-Information/11.2-chinese.md)
+  * [时间库](content/Further-Information/11.2-chinese.md)
   * [cppMem-概述](content/Further-Information/11.3-chinese.md)
   * [术语表](content/Further-Information/11.4-chinese.md)
 
