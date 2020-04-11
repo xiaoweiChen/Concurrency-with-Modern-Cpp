@@ -9,7 +9,7 @@
     * [内存模型的基础知识](content/The-Details/Memory-Model/1.1-chinese.md)
     * [编程协议](content/The-Details/Memory-Model/1.2-chinese.md)
     * [原子操作](content/The-Details/Memory-Model/1.3-chinese.md)
-    * [同步和排序约束](content/The-Details/Memory-Model/1.4-chinese.md)
+    * [同步和顺序约束](content/The-Details/Memory-Model/1.4-chinese.md)
     * [栅栏(Fences)](content/The-Details/Memory-Model/1.5-chinese.md)
   * [多线程](content/The-Details/Multithreading/2.0-chinese.md)
     * [线程](content/The-Details/Multithreading/2.1-chinese.md)
